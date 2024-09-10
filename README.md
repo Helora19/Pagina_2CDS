@@ -1,2 +1,2 @@
 # Pagina_2CDS
-Sei la
+Finalmente vou aprender alguma coisa nesse curso
