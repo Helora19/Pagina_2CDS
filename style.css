@@ -45,31 +45,31 @@
     padding: 50px;
     text-align: center;
 }
-.estudante_titulo{
+.desenho_titulo{
 padding: 50px;
 text-align: center;
 
 }
-.estudante-nome{
+.desenho-nome{
 text-align: center;
 }
-.estudante-imagem{
+.desenho-imagem{
 width: 120px;
 }
-.estudante-icone{
+.desenho-icone{
 width: 38px;
 padding: 4px 8px;
 }
-.estudante{
+.desenho{
 background-image: background-color(#faae43);
 padding: 24px 0;
 }
 
-.estudante.div{
+.desenho.div{
 text-align: center;
 padding: 24px 0;
 }
-.estudantes_todos{
+.desenhos_todos{
 display: flex;
 justify-content: space-around;
 }
