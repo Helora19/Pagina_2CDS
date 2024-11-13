@@ -3,9 +3,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-family: "Borel-Regular.ttf", cursive;
-    font-weight: 500;
-    font-style: normal;
+    font-family: "Borel-Regular.ttf", cursive !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
 }
 
     header{
@@ -31,7 +31,9 @@
     padding: 50px;
     text-align: center;
     width: 50%;
-    font: 30px;
+    font-size: 50px;
+        font-family: 'Borel';
+        font-weight: 300;
     }
     .sociais{
     display: flex;
