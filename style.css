@@ -52,6 +52,7 @@
 .desenho_titulo{
 padding: 50px;
 text-align: center;
+    font-family: "Borel";
 
 }
 .desenho-nome{
@@ -89,6 +90,7 @@ display:block;
 .escola-titulo{
 padding: 50px;
 text-align: center;
+    font-familt:"Borel"
 }
 .logo_rodape{
 height: 80px;
